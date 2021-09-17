@@ -1,1 +1,1 @@
-📆 Section 8: Terminal and GitHub Setup
+ 📆 Section 8: Terminal and GitHub Setup
