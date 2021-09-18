@@ -1,1 +1,0 @@
-# Fortune Teller Program
