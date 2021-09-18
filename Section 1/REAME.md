@@ -1,1 +1,3 @@
 📆 Section 1: Intro to Programming
+Fortune Teller Project
+For this assignment, you’ll create a fortune teller game. The program should allow the user to pick a number between 0 to 10. Then, the program should read the number and output a fortune. If the number is between 0 and 3, then they have a low fortune. If the number is between 4 and 7, then they have an average fortune. If the number is between 8 and 10, then they have a great fortune. Otherwise, any other fortune should not be read by the program. To set up the game, you’ll use your programming skills to declare variables, use comparison operators, and create conditional statements.
