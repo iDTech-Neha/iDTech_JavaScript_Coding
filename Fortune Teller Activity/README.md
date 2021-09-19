@@ -1,1 +1,1 @@
-# Fortune Teller Program
+# Fortune Teller Activity
