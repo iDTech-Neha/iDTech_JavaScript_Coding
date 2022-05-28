@@ -1,2 +1,1 @@
 # JavaScript Coding
-This repository contains projects that reflect the fundamental concepts of JavaScript and computational thinking. The projects include programs that contain functions, arrays, and scope. The projects also include simple 2D animations and callback functions. You'll find that the code contains some of the newest features of ECMAScript, the standard for JavaScript, which will lay a foundation for working with asynchronous code.
