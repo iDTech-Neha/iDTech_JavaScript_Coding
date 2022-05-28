@@ -1,1 +1,1 @@
-# JavaScript Bootcamp
+# JavaScript Coding
